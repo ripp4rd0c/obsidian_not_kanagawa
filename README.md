@@ -1,10 +1,7 @@
-# Obsidian + kanagawa
-This is a [kanagawa](https://github.com/rebelot/kanagawa.nvim) theme for [Obsidian](https://obsidian.md/). It supports dark mode only.
+all credits to the [original author](https://github.com/sspaeti/obsidian_kanagawa)
 
-Installation: Simply search `Kanagawa` in the Obsidian Communitiy Themes and Install. Or if manually, copy the `obsidian.css` file to your vault directory and reload Obsidian for it to take effect.
+i changed the colors of the background, headers, font, code, inline-code, bold, italic, highlighted text to suit my liking and make it easier on my eyes.
+
+_Installation_: i don't know how to publish my theme to obsidian theme gallery, so just copy the css in here into `.obsidian` in your vault's directory and pray it takes effect
 
 ![](dark.png)
-
----
-
-*Check also my other Theme I created, [Obsidian Rosé Pine](https://github.com/sspaeti/obsidian_rose_pine/).*
